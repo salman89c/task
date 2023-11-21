@@ -1,0 +1,18 @@
+.outerWrapper {
+    border: 1px solid silver;
+    border-radius: 10px;
+}
+.innerWrapper {
+    display: flex;
+}
+.box {
+    padding: 50px;
+    width: 50%;
+}
+
+.borderbottom {
+    border-bottom: 1px solid silver;
+}
+.borderRight {
+    border-right: 1px solid silver;
+}
